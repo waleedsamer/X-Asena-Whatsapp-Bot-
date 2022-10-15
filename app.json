@@ -51,7 +51,7 @@
       "required": false
     },
     "HEROKU_APP_NAME": {
-      "description": "Heroku app name, same as above entered",
+      "description": "Heroku app .name, same as above entered",
       "required": true
     },
     "HEROKU_API_KEY": {
